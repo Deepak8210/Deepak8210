@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://deepak-kr-portfolio.netlify.app/assets/resume-c016db56.pdf](https://deepak-kr-portfolio.netlify.app/assets/resume-c016db56.pdf)
 
-- ⚡ Fun fact **I love to travelling.**
+- ⚡ Fun fact **I love to travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
